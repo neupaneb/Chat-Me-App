@@ -6,7 +6,7 @@ Chat App is a full-stack chatting application built with a focus on real-time co
 
 - **Frontend**:
   - React.js
-  - Redux (if used for state management)
+  - Redux 
   - Socket.io-client for real-time communication
 - **Backend**:
   - Node.js
@@ -14,4 +14,4 @@ Chat App is a full-stack chatting application built with a focus on real-time co
   - Socket.io for real-time communication
   - MongoDB for database storage
   - bcrypt for password encryption
-  - dotenv for environment variable managemen
+  - dotenv for environment variable management
